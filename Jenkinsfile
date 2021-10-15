@@ -6,6 +6,7 @@ pipeline {
         echo 'Hello World!'   
         sh 'java -version'
         echo 'Hellow World'
+        echo 'Hellow World'
       }
     }
   }
